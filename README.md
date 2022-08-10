@@ -39,8 +39,8 @@
 </p>
 
 ## 📌 Result
-✔️ TCP Protocol의 전반적인 이해
-✔️ Socket 통신 활용
-✔️ 리눅스 활용
+✔️ TCP Protocol의 전반적인 이해  
+✔️ Socket 통신 활용  
+✔️ 리눅스 활용  
 ## 😄 What's Next?
 ✔️ Coming soon!
