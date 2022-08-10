@@ -38,6 +38,9 @@
   <img src=docs/gif/quit.gif width="70%" height="70%">
 </p>
 
-## 📌 Reuslt
-
+## 📌 Result
+✔️ TCP Protocol의 전반적인 이해
+✔️ Socket 통신 활용
+✔️ 리눅스 활용
 ## 😄 What's Next?
+✔️ Coming soon!
